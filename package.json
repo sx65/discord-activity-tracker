@@ -1,0 +1,20 @@
+{
+    "name": "aaa",
+    "version": "1.0.0",
+    "description": "bombap.",
+    "main": "index.js",
+    "type": "module", 
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "discord.js": "^14.0.0",
+      "active-win": "^8.0.0"
+    },
+    "engines": {
+      "node": ">=16.0.0"
+    },
+    "author": "aiden",
+    "license": "MIT"
+  }
+  
